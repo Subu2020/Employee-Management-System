@@ -17,12 +17,6 @@ An Employee Management System in Django keeps track of all of the employee’s i
 
 > This Application was created using Python, Django, HTML/CSS, and Bootstrap.
 
-## Sample video of this Project
-
-Employee Management System -
-
-https://user-images.githubusercontent.com/95544839/215315801-f1f4bbfb-53c2-4e5a-8090-844e4f572b46.mp4
-
 ## Installation 
 
 This requires [Python](https://www.python.org/) v3.8+ and [Django](https://www.djangoproject.com/) v4.0.4+ to run.
